@@ -78,7 +78,7 @@ etc...
 
 ## Part 3: Viewing the Captions!
 
-Firstly you will need to install my plugin: LINK
+Firstly you will need to install my plugin: https://addons.mozilla.org/en-US/firefox/addon/youtube-cc-standin/
 
 Secondly, navigate to a Youtube Video and locate the correct caption text for this specific video (hopefully linked in the video's description).
 
